@@ -62,3 +62,15 @@
 .body {
   background-color: #EDE4E8;
 }
+
+.1-left-panel {
+  html {
+  background-image: url(bg_1.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
